@@ -1,3 +1,29 @@
+git init >>>>> repo initilization
+touch f1 >>>>>>>>>> creat file
+git add . >>>>>> add file to work area
+git commit -m "hello"
+git branch -m main >>>>>>> creat  new branch
+git remote add origin main https//www........... >>>>  
+git remote -v  >>>>> list links 
+git push origin main  >>>>> push to server
+git branch >>>>>> list branches
+git branch newbranch  >>>>> creat new breanch
+ls >>>>> list fiels 
+git checkout newbranch >>>>> move to new branch
+
+git checkout -b newbranch >>>>>>>>>.create a branch and checkout it in one step
+
+
+
+
+ssh-keygen -t rsa -b 4096 -c “sayed.abdallah1998@gmail.com”
+cat /home/fatma/.ssh/id_rsa.pub >>>>>>>>>>> Generating an SSH key
+----------------------------------------------------
+
+git tag -a v0.0.3 -m "version 0.0.3" >>>>>>>>>>To add a annotated tag
+git push origin <tagname> >>>>>>>>>. to push by tag name
+git push --tags >>>>>>>. to push all tags
+
 git push origin :branch >>>>>>.to delete from remot
 git branch -d branch >>>>>>>> delete local if merged
 git branch -D branch >>>>>>>> delete local if not merged 
@@ -5,3 +31,10 @@ git branch -D branch >>>>>>>> delete local if not merged
 git tags >>>>>>>>>>> to list tags
 git push origin --delete v1.4 >>>>>>>>>> delete tag remotly
 git tag -d v1.4 >>>>>>>>>>> delete tag local
+
+
+--------------------------------------------
+
+git log >>>>>>>> show commit history 
+
+

@@ -1,0 +1,7 @@
+git push origin :branch >>>>>>.to delete from remot
+git branch -d branch >>>>>>>> delete local if merged
+git branch -D branch >>>>>>>> delete local if not merged 
+
+git tags >>>>>>>>>>> to list tags
+git push origin --delete v1.4 >>>>>>>>>> delete tag remotly
+git tag -d v1.4 >>>>>>>>>>> delete tag local
